@@ -10,4 +10,5 @@ Ajout de donnée dans le fichier .env.sample
 
 Dans la racine, ajout du package npm -g install @wordpress/env
 Puis pour démarrer l'environnement Wordpress faire : wp-env start
+Start le site avec le lien fourni
 
